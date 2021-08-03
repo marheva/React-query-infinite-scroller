@@ -1,0 +1,4 @@
+const FALLBACK_LANGUAGE = ["en"];
+const AVAILABLE_LANGUAGES = ["en", "fr"];
+
+export { FALLBACK_LANGUAGE, AVAILABLE_LANGUAGES };

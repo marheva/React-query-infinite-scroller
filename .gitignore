@@ -1,8 +1,12 @@
-# Dependencies
-.psci_modules
-bower_components
-node_modules
+.idea
+.prettierrc
+.vscode
+dist
+node_modules/
+package-lock.json
+.prettierrc
 
-# Generated files
-.psci
-output
+cypress/screenshots/
+cypress/videos/
+coverage/
+__snapshots__
